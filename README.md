@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! Soy Jeferson Alexis De La Cruz Ventura 👋
 
-<!--
-**JefersonDeLaCruz/JefersonDeLaCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Acerca de mí
+- 🎓 Actualmente estudio **Ingeniería de Sistemas Informáticos** en la **Universidad de El Salvador**.
+- 🤓 Me apasiona aprender cosas nuevas y me esfuerzo por dominar los conceptos que puedo aplicar en casi cualquier lenguaje de programación.
+- 💻 Aunque no me enfoco tanto en los lenguajes específicos, manejo **C#** y **Java** siempre priorizando el entendimiento de los conceptos clave.
 
-Here are some ideas to get you started:
+### En qué estoy enfocado actualmente
+- 📚 Estoy profundizando mis conocimientos en **bases de datos**, tanto a nivel teórico como práctico.
+- 🌱 No estoy muy interesado en el desarrollo **front-end** por el momento, pero mantengo una mente abierta a aprender nuevas tecnologías y habilidades en el futuro.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Habilidades
+- Lenguajes: **C#**, **Java**
+- Bases de datos: **MySQL**, **SQL Server**
+- Herramientas: **Git**, **Visual Studio**
+
+
